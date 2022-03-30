@@ -1,0 +1,27 @@
+Cmp-Mod V01 Created by PcbNew   date = Wednesday, March 16, 2022 at 09:56:36 PM
+
+BeginCmp
+TimeStamp = 765684c2-53b3-4ef7-bd1b-7a4a73d87b76
+Path = /18ee575f-d41e-4a26-ac0a-b229112d8877
+Reference = J2;
+ValeurCmp = OLED;
+IdModule  = Custom_Footprints:SSD1306_OLED;
+EndCmp
+
+BeginCmp
+TimeStamp = befdfbe5-f3e5-423b-a34e-7bba3f218536
+Path = /c8cafc13-8ec4-4716-bc62-71b94bccdbe8
+Reference = J1;
+ValeurCmp = Conn_01x08_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 92035a88-6c95-4a61-bd8a-cb8dd9e5018a
+Path = /4780a290-d25c-4459-9579-eba3f7678762
+Reference = SW1;
+ValeurCmp = Rotary_Encoder_Switch;
+IdModule  = Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm;
+EndCmp
+
+EndListe

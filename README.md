@@ -2,15 +2,16 @@
 
 ![µ10_keyboard](https://user-images.githubusercontent.com/800930/168409768-f59eebf5-3d8f-4886-aac2-d2045f0f248f.JPG)
 
-Here you will find all the source files I used to build my µ10 (aka Micro10) keyboard.  Here's a list of features
+Here you will find all the source files I used to build my µ10 (aka Micro10) keyboard.  Below is a list of features:
 
 * 10u wide QAZ-ish layout
 * Supports a 10u spacebar
 * Designed to be wireless (via nice!nano + ZMK)
 * Option daughterboard for OLED and rotary encoder
 * PCB uses Kailh hot swap sockets
-* PCB supports a 1.25u modifiers on each end if shorter/split spacebar is utilized.  Requires the case to be redesigned.
+* PCB supports a 1.25u modifier on each end if split spacebars (2.25u + 2.75u) or 6.25u spacebar is utilized.  Requires the case to be redesigned.
 
+[Keyboard Layout Editor (KLE)](http://www.keyboard-layout-editor.com/#/gists/2a9c0bfd3bc5586766325f682a7adc31)
 
 # ZMK Firmware
 

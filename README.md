@@ -1,5 +1,7 @@
 # µ10 Keyboard
 
+![µ10_keyboard](https://user-images.githubusercontent.com/800930/168409768-f59eebf5-3d8f-4886-aac2-d2045f0f248f.JPG)
+
 Here you will find all the source files I used to build my µ10 (aka Micro10) keyboard.  Here's a list of features
 
 * 10u wide QAZ-ish layout

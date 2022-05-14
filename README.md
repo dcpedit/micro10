@@ -13,6 +13,8 @@ Here you will find all the source files I used to build my µ10 (aka Micro10) ke
 
 [Keyboard Layout Editor (KLE)](http://www.keyboard-layout-editor.com/#/gists/2a9c0bfd3bc5586766325f682a7adc31)
 
+<img width="551" alt="Micro10_default_keymap" src="https://user-images.githubusercontent.com/800930/168410217-aa84e700-590b-47c6-ab6a-d3187b8ccb65.png">
+
 # ZMK Firmware
 
 See my fork of ZMK under the `dcpedit` branch: https://github.com/dcpedit/zmk/tree/dcpedit

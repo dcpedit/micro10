@@ -13,7 +13,8 @@ Here you will find all the source files I used to build my µ10 (aka Micro10) ke
 
 [Keyboard Layout Editor (KLE)](http://www.keyboard-layout-editor.com/#/gists/2a9c0bfd3bc5586766325f682a7adc31)
 
-<img width="551" alt="Micro10_default_keymap" src="https://user-images.githubusercontent.com/800930/168410217-aa84e700-590b-47c6-ab6a-d3187b8ccb65.png">
+<img width="551" alt="keymap_legend" src="https://user-images.githubusercontent.com/800930/190701085-8527384a-6dea-40a4-8e9a-947c617048ff.png">
+<img width="557" alt="keymap_current" src="https://user-images.githubusercontent.com/800930/190701039-7736e073-b160-4049-9196-ef969365691a.png">
 
 # ZMK Firmware
 
